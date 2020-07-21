@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
+I (he/him) am a Software Developer working mostly in Java and Kotlin.
+I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chicagokotlin)
 
 #### 🌱 Check out what I'm currently working on
 {{range recentRepos 10}}
@@ -12,17 +11,10 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/wakingrufus
 - Fediverse: https://mastodon.technology/@wakingrufus
 - Personal Site: https://wakingrufus.neocities.org
+
+Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
