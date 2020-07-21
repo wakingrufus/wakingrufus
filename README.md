@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
+I (he/him) am a Software Developer working mostly in Java and Kotlin.
+I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chicagokotlin)
 
 #### 🌱 Check out what I'm currently working on
 
@@ -19,20 +18,10 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) ([11.9](https://github.com/AlmasB/FXGL/releases/tag/11.9), 1 month ago) - Java / JavaFX / Kotlin Game Library (Engine)
 
-#### 👯 Check out some of my recent followers
-
-- [marcelomata](https://github.com/marcelomata)
-- [shawnrc](https://github.com/shawnrc)
-- [tk26](https://github.com/tk26)
-- [slapula](https://github.com/slapula)
-- [baritonehands](https://github.com/baritonehands)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/wakingrufus
 - Fediverse: https://mastodon.technology/@wakingrufus
 - Personal Site: https://wakingrufus.neocities.org
+
+Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
