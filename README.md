@@ -16,7 +16,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) ([11.9](https://github.com/AlmasB/FXGL/releases/tag/11.9), 1 month ago) - Java / JavaFX / Kotlin Game Library (Engine)
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) ([11.9](https://github.com/AlmasB/FXGL/releases/tag/11.9), 2 months ago) - Java / JavaFX / Kotlin Game Library (Engine)
 
 #### 📫 How to reach me
 
