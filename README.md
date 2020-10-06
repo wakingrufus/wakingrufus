@@ -6,7 +6,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 - [wakingrufus/praxis](https://github.com/wakingrufus/praxis) - 
 - [wakingrufus/libmagic](https://github.com/wakingrufus/libmagic) - 
 - [wakingrufus/kalibrate](https://github.com/wakingrufus/kalibrate) - Load testing framework for kotlin &amp; other JVM languages
-- [wakingrufus/filedb](https://github.com/wakingrufus/filedb) - 
+- [wakingrufus/filedb](https://github.com/wakingrufus/filedb) - Filedb is a kotlin library which allows you to use a file sync service (such as syncthing) as a persistence backend for an application.
 - [wakingrufus/text-adventure](https://github.com/wakingrufus/text-adventure) - A DSL for text-based adventure games targeting multiple platforms
 - [wakingrufus/code-book](https://github.com/wakingrufus/code-book) - This repository is a practical book study of The Code Book by Simon Singh.
 - [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018) - 
