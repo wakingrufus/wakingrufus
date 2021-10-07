@@ -16,7 +16,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🔭 Latest releases I've contributed to
 
-- [wakingrufus/website](https://github.com/wakingrufus/website) ([0.5.4](https://github.com/wakingrufus/website/releases/tag/0.5.4), 1 week ago) - My personal website
+- [wakingrufus/website](https://github.com/wakingrufus/website) ([0.5.4](https://github.com/wakingrufus/website/releases/tag/0.5.4), 2 weeks ago) - My personal website
 - [gigaSproule/swagger-gradle-plugin](https://github.com/gigaSproule/swagger-gradle-plugin) ([1.0.6](https://github.com/gigaSproule/swagger-gradle-plugin/releases/tag/1.0.6), 2 years ago) - JAX-RS &amp; SpringMVC supported gradle build plugin to generate Swagger documentation
 
 #### 📫 How to reach me
