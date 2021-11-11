@@ -3,6 +3,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🌱 Check out what I'm currently working on
 
+- [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) - JavaFx Music Manager
 - [wakingrufus/praxis](https://github.com/wakingrufus/praxis) - 
 - [wakingrufus/libmagic](https://github.com/wakingrufus/libmagic) - 
 - [wakingrufus/kalibrate](https://github.com/wakingrufus/kalibrate) - Load testing framework for kotlin &amp; other JVM languages
@@ -12,7 +13,6 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 - [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018) - 
 - [wakingrufus/dsl-example](https://github.com/wakingrufus/dsl-example) - 
 - [wakingrufus/tornadofx-test](https://github.com/wakingrufus/tornadofx-test) - Kotlin extensions for TornadoFX and TestFX
-- [wakingrufus/website](https://github.com/wakingrufus/website) - My personal website
 
 #### 🔭 Latest releases I've contributed to
 
