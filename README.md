@@ -16,8 +16,8 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🔭 Latest releases I've contributed to
 
-- [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) ([v0.5.2](https://github.com/wakingrufus/JaMM/releases/tag/v0.5.2), today) - JavaFx Music Manager
-- [wakingrufus/website](https://github.com/wakingrufus/website) ([v0.6.1](https://github.com/wakingrufus/website/releases/tag/v0.6.1), 1 day ago) - My personal website
+- [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) ([v0.5.2](https://github.com/wakingrufus/JaMM/releases/tag/v0.5.2), 1 day ago) - JavaFx Music Manager
+- [wakingrufus/website](https://github.com/wakingrufus/website) ([v0.6.1](https://github.com/wakingrufus/website/releases/tag/v0.6.1), 2 days ago) - My personal website
 
 #### 📫 How to reach me
 
