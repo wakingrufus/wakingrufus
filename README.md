@@ -3,6 +3,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🌱 Check out what I'm currently working on
 
+- [wakingrufus/developing-gradle-plugins](https://github.com/wakingrufus/developing-gradle-plugins) - Slides for Gradle Plugins talk
 - [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) - JavaFx Music Manager
 - [wakingrufus/praxis](https://github.com/wakingrufus/praxis) - 
 - [wakingrufus/libmagic](https://github.com/wakingrufus/libmagic) - 
@@ -12,7 +13,6 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 - [wakingrufus/code-book](https://github.com/wakingrufus/code-book) - This repository is a practical book study of The Code Book by Simon Singh.
 - [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018) - 
 - [wakingrufus/dsl-example](https://github.com/wakingrufus/dsl-example) - 
-- [wakingrufus/tornadofx-test](https://github.com/wakingrufus/tornadofx-test) - Kotlin extensions for TornadoFX and TestFX
 
 #### 🔭 Latest releases I've contributed to
 
