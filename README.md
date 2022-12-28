@@ -3,6 +3,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🌱 Check out what I'm currently working on
 
+- [wakingrufus/functional-kotlin](https://github.com/wakingrufus/functional-kotlin) - 
 - [wakingrufus/advent-of-code-2022](https://github.com/wakingrufus/advent-of-code-2022) - 
 - [wakingrufus/kotlin-2022](https://github.com/wakingrufus/kotlin-2022) - 
 - [wakingrufus/developing-gradle-plugins](https://github.com/wakingrufus/developing-gradle-plugins) - Slides for Gradle Plugins talk
@@ -12,7 +13,6 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 - [wakingrufus/kalibrate](https://github.com/wakingrufus/kalibrate) - Load testing framework for kotlin &amp; other JVM languages
 - [wakingrufus/filedb](https://github.com/wakingrufus/filedb) - Filedb is a kotlin library which allows you to use a file sync service (such as syncthing) as a persistence backend for an application.
 - [wakingrufus/text-adventure](https://github.com/wakingrufus/text-adventure) - A DSL for text-based adventure games targeting multiple platforms
-- [wakingrufus/code-book](https://github.com/wakingrufus/code-book) - This repository is a practical book study of The Code Book by Simon Singh.
 
 #### 🔭 Latest releases I've contributed to
 
