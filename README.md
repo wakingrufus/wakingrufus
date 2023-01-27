@@ -17,6 +17,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 #### 🔭 Latest releases I've contributed to
 
 - [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) ([v1.5.0](https://github.com/wakingrufus/JaMM/releases/tag/v1.5.0), 3 months ago) - JavaFx Music Manager
+- [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) ([v11.0.0](https://github.com/JLLeitschuh/ktlint-gradle/releases/tag/v11.0.0), 5 months ago) - A ktlint gradle plugin
 - [wakingrufus/website](https://github.com/wakingrufus/website) ([v0.6.1](https://github.com/wakingrufus/website/releases/tag/v0.6.1), 1 year ago) - My personal website
 
 #### 📫 How to reach me
