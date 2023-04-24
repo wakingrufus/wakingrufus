@@ -16,7 +16,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🔭 Latest releases I've contributed to
 
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) ([v7.40.0](https://github.com/openrewrite/rewrite/releases/tag/v7.40.0), 3 days ago) - Automated mass refactoring of source code.
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) ([v7.40.0](https://github.com/openrewrite/rewrite/releases/tag/v7.40.0), 4 days ago) - Automated mass refactoring of source code.
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) ([v11.3.1](https://github.com/JLLeitschuh/ktlint-gradle/releases/tag/v11.3.1), 1 month ago) - A ktlint gradle plugin
 - [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) ([v1.5.0](https://github.com/wakingrufus/JaMM/releases/tag/v1.5.0), 6 months ago) - JavaFx Music Manager
 - [wakingrufus/website](https://github.com/wakingrufus/website) ([v0.6.1](https://github.com/wakingrufus/website/releases/tag/v0.6.1), 1 year ago) - My personal website
