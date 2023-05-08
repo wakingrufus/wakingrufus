@@ -1,26 +1,29 @@
 I (he/him) am a Software Developer working mostly in Java and Kotlin.
 I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chicagokotlin)
 
-#### 🌱 Check out what I'm currently working on
+#### 🌱 Projects I am actively maintaining:
 
-- [wakingrufus/functional-kotlin](https://github.com/wakingrufus/functional-kotlin) - 
-- [wakingrufus/advent-of-code-2022](https://github.com/wakingrufus/advent-of-code-2022) - 
-- [wakingrufus/kotlin-2022](https://github.com/wakingrufus/kotlin-2022) - 
-- [wakingrufus/developing-gradle-plugins](https://github.com/wakingrufus/developing-gradle-plugins) - Slides for Gradle Plugins talk
+- [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - Gradle plugin for running ktlint
 - [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) - JavaFx Music Manager
-- [wakingrufus/praxis](https://github.com/wakingrufus/praxis) - 
-- [wakingrufus/libmagic](https://github.com/wakingrufus/libmagic) - 
+
+#### 🔭 Projects I have contributed to:
+
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [sys1yagi/mastodon4j](https://github.com/sys1yagi/mastodon4j) (Now [andregasser/bigbone](https://github.com/andregasser/bigbone)) - A Mastodon Client Library for Java and Kotlin
+- [corejavascript/typeahead.js](https://github.com/corejavascript/typeahead.js) (formerly [twitter/typeahead.js](https://github.com/twitter/typeahead.js)) - A fast and fully-featured autocomplete library
+- [Accuity/xml-document-merge](https://github.com/Accuity/xml-document-merge) - A rules engine for merging xml documents
+
+#### 🗣️ Slides from my conference talks:
+
+- [wakingrufus/functional-kotlin](https://github.com/wakingrufus/functional-kotlin)
+- [wakingrufus/kotlin-2022](https://github.com/wakingrufus/kotlin-2022)
+- [wakingrufus/developing-gradle-plugins](https://github.com/wakingrufus/developing-gradle-plugins)
+
+#### 🚧 Incomplete/Abandoned Projects:
+
 - [wakingrufus/kalibrate](https://github.com/wakingrufus/kalibrate) - Load testing framework for kotlin &amp; other JVM languages
 - [wakingrufus/filedb](https://github.com/wakingrufus/filedb) - Filedb is a kotlin library which allows you to use a file sync service (such as syncthing) as a persistence backend for an application.
-- [wakingrufus/text-adventure](https://github.com/wakingrufus/text-adventure) - A DSL for text-based adventure games targeting multiple platforms
-
-#### 🔭 Latest releases I've contributed to
-
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) ([v7.40.6](https://github.com/openrewrite/rewrite/releases/tag/v7.40.6), 2 days ago) - Automated mass refactoring of source code.
-- [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) ([v11.3.2](https://github.com/JLLeitschuh/ktlint-gradle/releases/tag/v11.3.2), 1 week ago) - A ktlint gradle plugin
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.0), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) ([v1.5.0](https://github.com/wakingrufus/JaMM/releases/tag/v1.5.0), 6 months ago) - JavaFx Music Manager
-- [wakingrufus/website](https://github.com/wakingrufus/website) ([v0.6.1](https://github.com/wakingrufus/website/releases/tag/v0.6.1), 1 year ago) - My personal website
 
 #### 📫 How to reach me
 
@@ -28,4 +31,3 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 - Fediverse: https://mastodon.technology/@wakingrufus
 - Personal Site: https://wakingrufus.neocities.org
 
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
