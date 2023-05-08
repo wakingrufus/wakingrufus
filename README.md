@@ -10,7 +10,9 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [Swagger2Markup/swagger2markup-gradle-plugin](https://github.com/Swagger2Markup/swagger2markup-gradle-plugin) - A Swagger2Markup Gradle Plugin
 - [sys1yagi/mastodon4j](https://github.com/sys1yagi/mastodon4j) (Now [andregasser/bigbone](https://github.com/andregasser/bigbone)) - A Mastodon Client Library for Java and Kotlin
+- [cloudbees-oss/zendesk-java-client](https://github.com/cloudbees-oss/zendesk-java-client) - A Java client library for interacting with Zendesk
 - [corejavascript/typeahead.js](https://github.com/corejavascript/typeahead.js) (formerly [twitter/typeahead.js](https://github.com/twitter/typeahead.js)) - A fast and fully-featured autocomplete library
 - [Accuity/xml-document-merge](https://github.com/Accuity/xml-document-merge) - A rules engine for merging xml documents
 
