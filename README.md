@@ -8,6 +8,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🔭 Projects I have contributed to:
 
+- [GoogleContainerTools/Jib](https://github.com/GoogleContainerTools/jib) - Build container images for your Java applications.
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX-based Game Engine
@@ -31,6 +32,6 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/wakingrufus
-- Fediverse: https://mastodon.technology/@wakingrufus
+- Fediverse: https://bigshoulders.city/@wakingrufus
 - Personal Site: https://wakingrufus.neocities.org
 
