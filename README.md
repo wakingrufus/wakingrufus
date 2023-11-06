@@ -8,6 +8,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🔭 Projects I have contributed to:
 
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - Build container images for your Java applications.
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [openrewrite/rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks) - OpenRewrite recipes that perform common Java testing migration tasks.
