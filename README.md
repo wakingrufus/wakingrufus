@@ -3,6 +3,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🌱 Projects I am actively maintaining:
 
+- [wakingrufus/spring-funk](https://github.com/wakingrufus/spring-funk) - A framework for declarative DSL configuration for Spring Boot
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - Gradle plugin for running ktlint
 - [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) - JavaFx Music Manager
 
