@@ -14,6 +14,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - Build container images for your Java applications.
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [openrewrite/rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks) - OpenRewrite recipes that perform common Java testing migration tasks.
+- [openrewrite/rewrite-jackson](https://github.com/openrewrite/rewrite-jackson) - OpenRewrite recipes that perform Jackson version migration tasks.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX-based Game Engine
 - [Swagger2Markup/swagger2markup-gradle-plugin](https://github.com/Swagger2Markup/swagger2markup-gradle-plugin) - A Swagger2Markup Gradle Plugin
