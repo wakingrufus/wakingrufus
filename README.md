@@ -1,20 +1,18 @@
 I (he/him) am a Software Developer working mostly in Java and Kotlin.
-I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chicagokotlin)
+I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chicagokotlin) and [Chicago Java User Group](https://github.com/cjug)
 
 #### 🌱 Projects I am actively maintaining:
 
 - [wakingrufus/spring-funk](https://github.com/wakingrufus/spring-funk) - A framework for declarative DSL configuration for Spring Boot
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - Gradle plugin for running ktlint
-- [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) - JavaFx Music Manager
+- [nebula-plugins](https://github.com/nebula-plugins) - Netflix Build Language Gradle Plugins
 
 #### 🔭 Projects I have contributed to:
 
 - [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - Build container images for your Java applications.
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
-- [openrewrite/rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks) - OpenRewrite recipes that perform common Java testing migration tasks.
-- [openrewrite/rewrite-jackson](https://github.com/openrewrite/rewrite-jackson) - OpenRewrite recipes that perform Jackson version migration tasks.
+- [openrewrite](https://github.com/openrewrite) - Automated mass refactoring of source code.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX-based Game Engine
 - [Swagger2Markup/swagger2markup-gradle-plugin](https://github.com/Swagger2Markup/swagger2markup-gradle-plugin) - A Swagger2Markup Gradle Plugin
@@ -32,12 +30,11 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🚧 Incomplete/Abandoned Projects:
 
+- [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) - JavaFx Music Manager
 - [wakingrufus/kalibrate](https://github.com/wakingrufus/kalibrate) - Load testing framework for kotlin &amp; other JVM languages
 - [wakingrufus/filedb](https://github.com/wakingrufus/filedb) - Filedb is a kotlin library which allows you to use a file sync service (such as syncthing) as a persistence backend for an application.
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/wakingrufus
 - Fediverse: https://bigshoulders.city/@wakingrufus
 - Personal Site: https://wakingrufus.neocities.org
-
