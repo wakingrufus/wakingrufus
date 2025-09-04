@@ -23,8 +23,9 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🗣️ Slides from my conference talks:
 
+- [Functional Spring Boot](https://wakingrufus.github.io/functional-spring-boot/)
 - [Delivering a Great Developer Experience with Platform Engineering](https://wakingrufus.github.io/developer-experience-platform-engineering/)
-- [wakingrufus/functional-kotlin](https://github.com/wakingrufus/functional-kotlin)
+- [wakingrufus/functional-kotlin](https://wakingrufus.github.io/functional-kotlin/)
 - [wakingrufus/kotlin-2022](https://github.com/wakingrufus/kotlin-2022)
 - [wakingrufus/developing-gradle-plugins](https://github.com/wakingrufus/developing-gradle-plugins)
 
