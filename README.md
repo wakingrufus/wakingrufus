@@ -3,7 +3,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🌱 Projects I am actively maintaining:
 
-- [wakingrufus/spring-funk](https://github.com/wakingrufus/spring-funk) - A framework for declarative DSL configuration for Spring Boot
+- [wakingrufus/khtmx](https://github.com/wakingrufus/khtmx) - Kotlin multiplatform HTML DSL extensions for HTMX and DSL for Spring MVC integration
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - Gradle plugin for running ktlint
 - [nebula-plugins](https://github.com/nebula-plugins) - Netflix Build Language Gradle Plugins
 
@@ -31,6 +31,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🚧 Incomplete/Abandoned Projects:
 
+- [wakingrufus/spring-funk](https://github.com/wakingrufus/spring-funk) - A framework for declarative DSL configuration for Spring Boot
 - [wakingrufus/JaMM](https://github.com/wakingrufus/JaMM) - JavaFx Music Manager
 - [wakingrufus/kalibrate](https://github.com/wakingrufus/kalibrate) - Load testing framework for kotlin &amp; other JVM languages
 - [wakingrufus/filedb](https://github.com/wakingrufus/filedb) - Filedb is a kotlin library which allows you to use a file sync service (such as syncthing) as a persistence backend for an application.
