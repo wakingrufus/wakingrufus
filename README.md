@@ -9,6 +9,7 @@ I am also a Co-Organizer of [Chicago Kotlin User Group](https://github.com/chica
 
 #### 🔭 Projects I have contributed to:
 
+- [ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 - [Gradle](https://github.com/gradle/gradle) - Build Tool
 - [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
